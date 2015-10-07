@@ -1,3 +1,3 @@
 # EISWS1516JeyaratnamStelzer
 
-[Projektbegründungen](JeyaratnamStelzer_ProjektbegründungenEISWS1516)
+[Projektbegründungen](https://github.com/sophiestelzer/EISWS1516JeyaratnamStelzer/wiki/JeyaratnamStelzer_Projektbegr%C3%BCndungenEISWS1516)
